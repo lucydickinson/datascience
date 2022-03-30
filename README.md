@@ -1,2 +1,1 @@
-# DS_EDA
-Exploratory Data Analysis in Data Science projects
+Repository to show various EDA jupyter notebooks for a variety of Data Science related tasks.
