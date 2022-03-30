@@ -1,0 +1,1 @@
+This EDA looks at the top Spotify tracks from 2010 to 2019, an opensource dataset I retrieved from Kaggle. During this EDA I look at some descriptive/summary statistics and use linear regression models to investigate what factors drive song popularity and ECDF plots to visualise changes in the distribution of song variables over time.
