@@ -11,7 +11,7 @@ This repository contains various small projects that cover different aspects of 
   </tr>
   <tr>
     <td><strong>1</strong></td>
-    <td><strong>Spotify Top Songs<a>https://github.com/lucydickinson/datascience/tree/main/Spotify%20Top%20Songs%20EDA</a></strong></td>
+    <td><strong><a href="https://github.com/lucydickinson/datascience/tree/main/Spotify%20Top%20Songs%20EDA">Spotify Top Songs</a></strong></td>
     <td>Short exploratory data analysis from an open source dataset looking at what drives song popularity, of which I use linear regressions and invistigate how the distrubution of variables over time.</td>
   </tr>
   <tr>
