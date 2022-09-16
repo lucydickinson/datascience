@@ -9,11 +9,11 @@ This repository contains various small projects that cover different aspects of 
     <th>Overview</th>
   </tr>
   <tr>
-    <td><strong>Spotify Top Songs</td>
-    <td>Logistic Regression with Categorical Variables</strong></td>
+    <td><strong>Spotify Top Songs</strong></td>
+    <td>Short exploratory data analysis from an open source dataset looking at the ........ </td>
   </tr>
   <tr>
-    <td>Short exploratory data analysis from an open source dataset looking at the </td>
+    <td><strong>Logistic Regression with Categorical Variables</strong></td>
     <td>A supplementary notebook to my article on Towards Data Science (LINK) detailing the application of logisitic regression with reference categories with categorical data and finally, how to interpret odds ratios.</td>
   </tr>
 </table>
