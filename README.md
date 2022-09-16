@@ -16,7 +16,7 @@ This repository contains various small projects that cover different aspects of 
   </tr>
   <tr>
     <td><strong>2</strong></td>
-    <td><strong>Logistic Regression with Categorical Variables</strong></td>
+    <td><strong><a href="https://github.com/lucydickinson/datascience/tree/main/Logistic%20regression%20with%20categorical%20variables">Logistic Regression with Categorical Variables</a></strong></td>
     <td>A supplementary notebook to my article on Towards Data Science (LINK) detailing the application of logisitic regression with reference categories with categorical data and finally, how to interpret odds ratios.</td>
   </tr>
 </table>
