@@ -9,8 +9,8 @@ This repository contains various small projects that cover different aspects of 
     <th>Overview</th>
   </tr>
   <tr>
-    <td>Spotify Top Songs</td>
-    <td>Logistic Regression with Categorical Variables</td>
+    <td><strong>Spotify Top Songs</td>
+    <td>Logistic Regression with Categorical Variables</strong></td>
   </tr>
   <tr>
     <td>Short exploratory data analysis from an open source dataset looking at the </td>
