@@ -1,1 +1,3 @@
-Repository to show various EDA jupyter notebooks for a variety of Data Science related tasks.
+Repository to show various exploratory data analysis jupyter notebooks for a variety of data science related tasks.
+
+Enjoy :)
