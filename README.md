@@ -21,8 +21,8 @@ This repository contains various small projects that cover different aspects of 
   </tr>
     <tr>
     <td><strong>3</strong></td>
-    <td><strong><a href="https://github.com/lucydickinson/datascience/tree/main/What%20makes%20a%20Spotify%20playlist%20successful%3F">What makes a Spotify playlist successful</a></strong></td>
-    <td>A seven day challenge to derive success metrics of a successful playlist and perform analysis to see which features drive playlist popularity.</td>
+    <td><strong>coming soon...</td>
+    <td></td>
   </tr>
 </table>
 
