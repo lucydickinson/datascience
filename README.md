@@ -31,6 +31,4 @@ This repository contains various small projects that cover different aspects of 
   </tr>
 </table>
 
-Text Classifier (supervised ML)/
-
 Enjoy :)
