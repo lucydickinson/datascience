@@ -10,7 +10,7 @@ app = typer.Typer()
 
 
 @app.command()
-def main(
+def load_data(
     # ---- REPLACE DEFAULT PATHS AS APPROPRIATE ----
     input_path: Path = RAW_DATA_DIR / "dataset.csv",
     output_path: Path = PROCESSED_DATA_DIR / "dataset.csv",
