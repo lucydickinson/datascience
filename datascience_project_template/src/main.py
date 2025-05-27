@@ -1,29 +1,21 @@
 #  ------ IMPORT LIBRARIES ------  #
-#  import functions/classes from your own modules, in addition to standard or third party packages
-from dataset import load_data
-from features import feature_engineer
-import typer
-
-#  ...
-
-#  ------ CLI config ------  #
-app = typer.Typer()
+from module_A import ClassA
+from module_B import functionA
+from module_C import ClassB
 
 
 #  ------ MAIN FUNCTION ------  #
-@app.command()
 def main(arg1, arg2):
-    """Docstring summary of main function.
+    """Main entry point of the program.
 
-    Args:
-        arg1 (_type_): _description_
-        arg2 (_type_): _description_
+    This function coordinates the overall execution
+    of the application by utilizing the functionality
+    provided by the imported modules."""
 
-    Returns:
-        _type_: _description_
-    """
-
-    #  ADD CODE HERE FOR MAIN EXECUTION OF ALL MODULES  #
+    #  ADD CODE HERE FOR PRIMARY PROGRAMME EXECUTION USING IMPORTED MODULES  #
+    obj1 = ClassA(arg1)
+    obj2 = functionA(obj1)
+    # ... etc ...
 
 
 #  ------ MAIN PROGRAMME EXECUTION ------  #
