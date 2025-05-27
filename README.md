@@ -1,7 +1,7 @@
 <h1>Data Science Repository</h1>
 <h3>Author: Lucy Dickinson</h3>
 
-This repository contains various small projects that cover different aspects of exploratory data analysis and data science techniques using python and jupyter notebooks.
+This repository contains supplementary code to sit alongside articles written for Towards Data Science.
 
 <table>
   <tr>
@@ -11,8 +11,8 @@ This repository contains various small projects that cover different aspects of 
   </tr>
   <tr>
     <td><strong>1</strong></td>
-    <td><strong><a href="https://github.com/lucydickinson/datascience/tree/main/Spotify%20Top%20Songs%20EDA">Spotify Top Songs</a></strong></td>
-    <td>Short exploratory data analysis from an open source dataset looking at what drives song popularity, of which I use linear regressions and invistigate how the distribution of variables over time.</td>
+    <td><strong><a href="https://github.com/lucydickinson/datascience/tree/main/datascience_project_template">Data Science Project Template</a></strong></td>
+    <td>An example project template based on Cookiecutter Data Science template useful when creating a python program. This project is supplmentary to a new article on Towards Data Science.</td>
   </tr>
   <tr>
     <td><strong>2</strong></td>
@@ -26,8 +26,8 @@ This repository contains various small projects that cover different aspects of 
   </tr>
   <tr>
     <td><strong>4</strong></td>
-    <td><strong>coming soon...</strong></td>
-    <td></td>
+    <td><strong><a href="https://github.com/lucydickinson/datascience/tree/main/Spotify%20Top%20Songs%20EDA">Spotify Top Songs</a></strong></td>
+    <td>Short exploratory data analysis from an open source dataset looking at what drives song popularity, of which I use linear regressions and invistigate how the distribution of variables over time.</td>
   </tr>
 </table>
 
