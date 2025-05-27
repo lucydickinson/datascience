@@ -10,7 +10,7 @@ app = typer.Typer()
 
 
 @app.command()
-def main(
+def feature_engineer(
     # ---- REPLACE DEFAULT PATHS AS APPROPRIATE ----
     input_path: Path = PROCESSED_DATA_DIR / "dataset.csv",
     output_path: Path = PROCESSED_DATA_DIR / "features.csv",
